@@ -826,7 +826,7 @@ section.lazy-placeholder:after {
     align-items: center;
   }
   .cid-rzMUoQcbmt .navbar:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 4rem - 4.5rem);
+    max-height: calc(100vh - 8rem - 4.5rem);
   }
   .cid-rzMUoQcbmt .navbar.navbar-toggleable-sm .navbar-collapse .navbar-nav .nav-item {
     -webkit-align-self: initial;
